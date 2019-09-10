@@ -1,1 +1,2 @@
-# rfm69hcw-signal-strength-measuring
+# SignalStrengthMeasurer
+This program tries to measure the signal strength between two radio's.
