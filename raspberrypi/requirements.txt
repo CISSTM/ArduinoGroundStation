@@ -1,0 +1,2 @@
+adafruit-circuitpython-rfm69==1.2.5
+spidev==3.4
